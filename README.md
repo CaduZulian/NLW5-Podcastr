@@ -8,7 +8,7 @@
   Podcastr is a platform built for podcast broadcasting.
 </h4>
 
-![Podcastr preview](./github/project-image.png)
+![Podcastr preview](.github/project-image.png)
 
 ## Tecnologies
 
